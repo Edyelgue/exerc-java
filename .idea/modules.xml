@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/crudJavaCurso.iml" filepath="$PROJECT_DIR$/.idea/crudJavaCurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio001/exercicio001.iml" filepath="$PROJECT_DIR$/exercicio001/exercicio001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio002/exercicio002.iml" filepath="$PROJECT_DIR$/exercicio002/exercicio002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio003/exercicio003.iml" filepath="$PROJECT_DIR$/exercicio003/exercicio003.iml" />
+    </modules>
+  </component>
+</project>
